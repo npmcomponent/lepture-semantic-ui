@@ -1,0 +1,14 @@
+{
+  "name": "lepture-semantic-ui",
+  "description": "Semantic-UI as a component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "styles": [
+    "semantic-ui.css"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT"
+}

@@ -1,4 +1,4 @@
-var jQuery = require('jquery')
+var jQuery = require('component-jquery')
 /*
  * # Semantic - Accordion
  * http://github.com/jlukic/semantic-ui/
